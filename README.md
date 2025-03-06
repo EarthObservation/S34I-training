@@ -3,7 +3,7 @@
 Materials for the [*Satellite Image Time Series Analysis with Python*](https://s34iclassroom.fgg.uni-lj.si/course/view.php?id=5).
 
 Prepared by:  
-Krištof Oštir, Bujar Fetai, Matej Račič, Ana Potočnik Buhvald (University of Ljubljana)
+Krištof Oštir, Bujar Fetai, Matej Račič, Tanja Grabrijan (University of Ljubljana)
 
 ## Preparation
 
