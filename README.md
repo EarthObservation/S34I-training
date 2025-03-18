@@ -10,7 +10,7 @@ Krištof Oštir, Bujar Fetai, Matej Račič, Tanja Grabrijan (University of Ljub
 The repository consists of installation instructions, notebooks and practical information.
 
 
-The repository can be synchronized using `git pull` or downloaded as a zip file. The data used for the practical exercise can be downloaded from [geoclassroom](https://s34iclassroom.fgg.uni-lj.si/course/view.php?id=5). 
+The repository can be synchronized using `git pull` or downloaded as a zip file. The data used for the practical exercise can be downloaded from [s34iclassroom](https://s34iclassroom.fgg.uni-lj.si/course/view.php?id=5). 
 
 The practical has installation instructions which should be completed in advance.
 
