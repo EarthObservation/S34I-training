@@ -16,7 +16,7 @@ The practical has installation instructions which should be completed in advance
 
 ## Installation instructions
 We will be using [Anaconda](https://www.anaconda.com/), which can be installed from the [website](https://www.anaconda.com/products/distribution#Downloads). If you have limited resources we suggest the us of [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
-Once installed open Anaconda Prompt and move to the location of the extracted repository `cd Downloads/S34I-training/`. If you have downloaded it to a different drive change the location to the drive first, example `D:` and press Enter.
+Once installed open Anaconda Prompt and move to the location of the extracted repository `cd Downloads\S34I-training\`. If you have downloaded it to a different drive change the location to the drive first, example `D:` and press Enter.
 
 Here you can create a new environment for this tutorial using the provided environment.yml file:
 
